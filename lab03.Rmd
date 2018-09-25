@@ -89,7 +89,7 @@ You can find a codebook with explanations for each of the variables at https://g
 
 
 
-## Part one (cleaning)
+## Part one (team cleaning)
 
 <p style="font-size:20px">
 Answer each of the following questions using R code to get an answer. 
@@ -103,11 +103,13 @@ Write a separate code chunk for each variable, once all the data manipulation is
 <p style="font-size:20px">
 Save the final data set as RDS file (binary R data) using the command:`saveRDS`</p>
 
-## Part two (exploration)
+## Part two (individual exploration)
 
 *Happiness!*
 
 Investigate the relationship between happiness and two other variables in the data. Find a visualization that captures the relationship and write a paragraph to describe it. 
+
+Each member should study a different question (choose different variables to investigate).
 
 Upload your answers and the dataset to the repository. Discuss and refine answers as a team.
 
@@ -118,7 +120,8 @@ In Canvas, submit an RMarkdown file (and the knitted html document) with:
   a. the names of all team members that worked on the document.
   b. a link to the github repo you were working in.
   c. code and answers to all of the questions.
-  d. you can upload the data file, but you don't have to
+  d. for the individual exploration, put the name of the team member beside each question you investigated.
+  e. you can upload the data file, but you don't have to
 
 
 Due date: You have time until Monday at 10 pm to submit the final RMmarkdown file.
